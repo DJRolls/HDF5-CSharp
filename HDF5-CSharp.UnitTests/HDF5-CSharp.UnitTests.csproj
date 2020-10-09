@@ -19,7 +19,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="HDF.PInvoke.1.10" Version="1.10.610" />
+    <PackageReference Include="HDF.PInvoke.1.10" Version="1.10.611" />
     <PackageReference Include="Microsoft.CodeCoverage" Version="16.7.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.7.1" />
     <PackageReference Include="MSTest.TestAdapter" Version="2.1.2" />
